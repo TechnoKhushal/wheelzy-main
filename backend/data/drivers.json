@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Rahul Sharma",
+    "experience": "5 years",
+    "rating": 4.8,
+    "price": 800,
+    "location": "Delhi",
+    "phone": "9876543210",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Amit Kumar",
+    "experience": "7 years",
+    "rating": 4.9,
+    "price": 900,
+    "location": "Noida",
+    "phone": "9876543211",
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Vikas Singh",
+    "experience": "4 years",
+    "rating": 4.7,
+    "price": 700,
+    "location": "Ghaziabad",
+    "phone": "9876543212",
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Arjun Verma",
+    "experience": "6 years",
+    "rating": 4.9,
+    "price": 850,
+    "location": "Delhi",
+    "phone": "9876543213",
+    "available": true
+  }
+]

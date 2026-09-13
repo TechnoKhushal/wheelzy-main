@@ -1,0 +1,80 @@
+[
+  {
+    "id": "1",
+    "name": "Hyundai Creta",
+    "brand": "Hyundai",
+    "category": "SUV",
+    "price": 1800,
+    "location": "Delhi",
+    "image": "/images/creta.jpg",
+    "seats": 5,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "available": true
+  },
+  {
+    "id": "2",
+    "name": "Maruti Swift",
+    "brand": "Maruti",
+    "category": "Hatchback",
+    "price": 1200,
+    "location": "Delhi",
+    "image": "/images/swift.jpg",
+    "seats": 5,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "available": true
+  },
+  {
+    "id": "3",
+    "name": "Mahindra Thar",
+    "brand": "Mahindra",
+    "category": "SUV",
+    "price": 2500,
+    "location": "Noida",
+    "image": "/images/thar.jpg",
+    "seats": 4,
+    "fuel": "Diesel",
+    "transmission": "Manual",
+    "available": true
+  },
+  {
+    "id": "4",
+    "name": "Toyota Innova Crysta",
+    "brand": "Toyota",
+    "category": "MUV",
+    "price": 2800,
+    "location": "Delhi",
+    "image": "/images/innova.jpg",
+    "seats": 7,
+    "fuel": "Diesel",
+    "transmission": "Automatic",
+    "available": true
+  },
+  {
+    "id": "5",
+    "name": "Tata Nexon",
+    "brand": "Tata",
+    "category": "SUV",
+    "price": 1600,
+    "location": "Ghaziabad",
+    "image": "/images/nexon.jpg",
+    "seats": 5,
+    "fuel": "Petrol",
+    "transmission": "Manual",
+    "available": true
+  },
+  {
+    "id": "6",
+    "name": "Honda City",
+    "brand": "Honda",
+    "category": "Sedan",
+    "price": 2000,
+    "location": "Noida",
+    "image": "/images/city.jpg",
+    "seats": 5,
+    "fuel": "Petrol",
+    "transmission": "Automatic",
+    "available": true
+  }
+]
